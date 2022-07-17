@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\C#\exz002\bin\Debug\net6.0\exz002.exe
+C:\Users\Юлия\Desktop\C#\exz002\bin\Debug\net6.0\exz002.deps.json
+C:\Users\Юлия\Desktop\C#\exz002\bin\Debug\net6.0\exz002.runtimeconfig.json
+C:\Users\Юлия\Desktop\C#\exz002\bin\Debug\net6.0\exz002.dll
+C:\Users\Юлия\Desktop\C#\exz002\bin\Debug\net6.0\exz002.pdb
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.dll
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\refint\exz002.dll
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.pdb
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\exz002.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\C#\exz002\obj\Debug\net6.0\ref\exz002.dll
